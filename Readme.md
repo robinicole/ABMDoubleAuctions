@@ -2,7 +2,7 @@
 This code is a supplementary material to the article Dynamical selection of Nash equilibria using Experience Weighted Attraction Learning" (see the preprint [here](https://arxiv.org/abs/1706.09763)). 
 ## Installation
 - To compile this code, you need to install the boost library with `boost_program_options`.
-- Once it is done, you can compile this code with the command `make`.
+- To compile, just type `make` and it should do the job. 
 
 ## Options
 
